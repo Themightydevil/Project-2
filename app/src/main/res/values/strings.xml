@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cricket Score Calculator</string>
+    <string name="team1">Team A</string>
+    <string name="team1Score">0</string>
+    <string name="runs_6">+6 Runs</string>
+    <string name="runs_4">+4 Runs</string>
+    <string name="runs_1">+1 Run</string>
+    <string name="wide_ball">Wide/No Ball</string>
+    <string name="team2">Team B</string>
+    <string name="team2Score">0</string>
+    <string name="reset">Reset</string>
+    <string name="overs">Overs</string>
+    <string name="team_A_Overs">0</string>
+    <string name="team_B_Overs">0</string>
+    <string name="Overs_1">+1</string>
+</resources>
